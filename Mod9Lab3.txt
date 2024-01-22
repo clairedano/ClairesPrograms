@@ -1,0 +1,788 @@
+
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673Medical Provider's Office Location: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          OFFICE LOCATION          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, TexasOffice Phone: 2107739581
+
+
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194Medical Provider's Office Location: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          OFFICE LOCATION          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, TexasOffice Phone: 2107739581
+
+
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162Medical Provider's Office Location: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          OFFICE LOCATION          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, TexasOffice Phone: 2107739581
+
+
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919Medical Provider's Office Location: 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          OFFICE LOCATION          
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, TexasOffice Phone: 2107739581
+
+
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+--------------------------------------------
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas 
+Office Phone: 2107739581
+
+
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+--------------------------------------------
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+--------------------------------------------
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+--------------------------------------------
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+--------------------------------------------
+
+
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+--------------------------------------------
+
+
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+--------------------------------------------
+
+
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+--------------------------------------------
+
+
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: null
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Trauma Rehab
+License Number: 193556471
+Room Number: 11
+Yearly Salary: $135,000.00
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Psychology
+License Number: 193291574
+Room Number: 22
+Yearly Salary: $108,500.00
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Registered Nurse (RN) 
+Hourly Rate: 45.5
+Hours Worked in a Week: 30.0
+Weekly Pay Check: 1365.0
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Certified Nursing Assistant (CNA) 
+Hourly Rate: 28.32
+Hours Worked in a Week: 28.0
+Weekly Pay Check: 792.96
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Trauma Rehab
+License Number: 193556471
+Room Number: 11
+Yearly Salary: $135,000.00
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Psychology
+License Number: 193291574
+Room Number: 22
+Yearly Salary: $108,500.00
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Registered Nurse (RN) 
+Hourly Rate: $45.50
+Hours Worked in a Week: 30.0
+Weekly Pay Check: $1,365.00
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Certified Nursing Assistant (CNA) 
+Hourly Rate: $28.32
+Hours Worked in a Week: 28.0
+Weekly Pay Check: $792.96
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Trauma Rehab
+License Number: 193556471
+Room Number: 11
+Yearly Salary: $135,000.00
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Psychology
+License Number: 193291574
+Room Number: 22
+Yearly Salary: $108,500.00
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Registered Nurse (RN) 
+Hourly Rate: $45.50
+Hours Worked in a Week: 30.0
+Weekly Pay Check: $1,365.00
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Certified Nursing Assistant (CNA) 
+Hourly Rate: $28.32
+Hours Worked in a Week: 28.0
+Weekly Pay Check: $792.96
+
+--------------------------------------------
+First Name: Jarrod
+Last Name: Tome
+Employee ID: 679673
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Trauma Rehab
+License Number: 193556471
+Room Number: 11
+Yearly Salary: $135,000.00
+
+--------------------------------------------
+First Name: Claire
+Last Name: Dano
+Employee ID: 766194
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: DOCTOR INFO     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Specialty: Psychology
+License Number: 193291574
+Room Number: 22
+Yearly Salary: $108,500.00
+
+--------------------------------------------
+First Name: Gabrielle
+Last Name: Kinzinger
+Employee ID: 955162
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Registered Nurse (RN) 
+Hourly Rate: $45.50
+Hours Worked in a Week: 30.0
+Weekly Pay Check: $1,365.00
+
+--------------------------------------------
+First Name: Joy
+Last Name: DoiDoi
+Employee ID: 032919
+
+
+Medical Provider's Office Location: 
+Office Name: TomeTrauma Care
+Office Address: 2778 Tally Road
+San Antonio, Texas
+Office Phone: 2107739581
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+     MEDICAL PROVIDER: NURSE INFO      
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Type: Certified Nursing Assistant (CNA) 
+Hourly Rate: $28.32
+Hours Worked in a Week: 28.0
+Weekly Pay Check: $792.96
+
